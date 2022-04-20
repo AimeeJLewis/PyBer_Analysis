@@ -13,6 +13,8 @@ By calculating the Total Rides, Total Drivers, Total Fares, Avg. Fare per Ride, 
 ### Total Fare by City Type 
 
 ![Image 4-20-22 at 9 33 AM (1)](https://user-images.githubusercontent.com/101950175/164279982-08297a07-57f0-4fe4-8410-f2463727acbc.png)
+When looking at the Total Fares by City Type for only the January through April timeframe, we can see that the fares started to increase at the end of February for all city types.  The beginning of the year seemed to be the slowest and starts to slowly ramp up for the end of February peak. The urban city type sees some peaks and dips through the month of March and starts to dip by the end of April.  The suburban fares dip right after the end of February peak and stay steady until they start to ramp back up end of April.  You see the rural fares ramp back up first of April and then slowly drop back down by the end of the month.
+
 
 ## Summary and Recommendations
 
