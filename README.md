@@ -18,4 +18,4 @@ When looking at the Total Fares by City Type for only the January through April 
 
 ## Summary and Recommendations
 
-Looking at the amount of drivers in the Urban city type (5 times more drivers than the suburban city type and almost 30 times more than the rural city type), PyBer could look at decreasing the amount of total drivers to help increase the Avg. Fare per Driver. Could they utilize those 
+Looking at the amount of drivers in the Urban city type (5 times more drivers than the suburban city type and almost 30 times more than the rural city type), PyBer could look at decreasing the amount of total drivers to help increase the Avg. Fare per Driver. Could they utilize those drivers elsewhere or could they invest some advertising dollars into generating more rides to keep those drivers busy and help increase the avg. fare and ride per driver? If they were to advertise, based on the Total Fare by City type, the mid-end of February would be a good time to launch a campaign. 
